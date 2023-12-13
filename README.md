@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Rajesh Chormale</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right"alt="coding" width="400"src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1187836%2Fscreenshots%2F6539429%2Fprogramer.gif&tbnid=1Dro-CqJY0h0AM&vet=10CKYBEDMonQFqFwoTCMjXg_zYjIMDFQAAAAAdAAAAABAI..i&imgrefurl=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs%2Fblob%2Fmaster%2FREADME.md&docid=QwuZM9jFfgF9_M&w=800&h=600&q=animated%20coding%20gif&ved=0CKYBEDMonQFqFwoTCMjXg_zYjIMDFQAAAAAdAAAAABAI">
+<img align="right"alt="coding" width="400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r7620&label=Profile%20views&color=0e75b6&style=flat" alt="r7620" /> </p>
 
