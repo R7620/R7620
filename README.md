@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r7620&label=Profile%20views&color=0e75b6&style=flat" alt="r7620" /> </p>
 
-- 📫 How to reach me **rajeshchormale2002@gmail.cam**
+- 📫 How to reach me **rajeshchormale2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
